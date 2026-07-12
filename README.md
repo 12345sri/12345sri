@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages**
 - Python
@@ -37,10 +37,10 @@
 
 ## 📌 Featured Projects
 
-- 😊 Sentiment Analysis Using Machine Learning
-- ⛓️ Blockchain Token Management System
-- 🎓 Blockchain Student Admission System
-- 💰 Blockchain Token Assessment
+- Sentiment Analysis Using Machine Learning
+- Blockchain Token Management System
+- Blockchain Student Admission System
+- Blockchain Token Assessment
 
 ---
 
