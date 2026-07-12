@@ -49,3 +49,13 @@ Building practical AI and software projects while continuously learning new tech
 - Deep Learning
 - Computer Vision
 - Large Language Models (LLMs)
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: sripornab13@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/sriporna-biswas-7062a4294
+
+🆔 ORCID: https://orcid.org/0009-0009-6683-5477
