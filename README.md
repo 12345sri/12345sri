@@ -8,7 +8,7 @@ Building practical AI and software projects while continuously learning new tech
 
 ---
 
-## Technical Skills
+## ⚙️Technical Skills
 
 **Languages**
 - Python
@@ -35,7 +35,7 @@ Building practical AI and software projects while continuously learning new tech
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 - Sentiment Analysis Using Machine Learning
 - Blockchain Token Management System
@@ -44,7 +44,7 @@ Building practical AI and software projects while continuously learning new tech
 
 ---
 
-## 🌱 Currently Learning
+## 🎯 Currently Learning
 
 - Deep Learning
 - Computer Vision
