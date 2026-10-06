@@ -44,7 +44,7 @@ Git · GitHub · Jupyter Notebook · Google Colab · VS Code
 
 ---
 
-## Selected Projects
+## Projects
 
 ### Sentiment Analysis Using Machine Learning
 
