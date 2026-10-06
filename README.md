@@ -1,9 +1,8 @@
 # Sriporna Biswas
 
-### Computer Science Engineer | Data Science & AI | Machine Learning
+### CSE Graduate | Data Science & AI | Machine Learning
 
-I am a Computer Science Engineer with research and project experience in
-**Data Science, Artificial Intelligence, and Machine Learning**.
+I am a Computer Science & Engineering Graduate with research and project experience in **Data Science, Artificial Intelligence, and Machine Learning**.
 
 My interests lie in developing data-driven and intelligent systems, with
 experience spanning **machine learning, natural language processing,
