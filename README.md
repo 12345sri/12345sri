@@ -1,134 +1,160 @@
-# Hi, I'm Sriporna Biswas 👋
+# Sriporna Biswas
 
 ### Computer Science Engineer | Data Science & AI | Machine Learning
 
-I am a Computer Science Engineering graduate with a strong interest in
-**Data Science, Artificial Intelligence, Machine Learning, and intelligent
-software systems**.
+I am a Computer Science Engineer with research and project experience in
+**Data Science, Artificial Intelligence, and Machine Learning**.
 
-My work combines programming, data analysis, machine learning, and AI to
-build practical and research-oriented solutions. I am particularly interested
-in applying AI and data-driven approaches to real-world domains, including
-**healthcare and biomedical research**.
+My interests lie in developing data-driven and intelligent systems, with
+experience spanning **machine learning, natural language processing,
+predictive analytics, and AI-driven research**.
+
+I have also explored the application of AI and data science in
+**healthcare and biomedical research**, including gene regulatory network
+analysis and biomedical datasets.
 
 ---
 
-## 🎯 Areas of Interest
+## Research & Technical Interests
 
-- Data Science & Analytics
+- Data Science & Predictive Analytics
 - Artificial Intelligence & Machine Learning
 - Deep Learning
-- Predictive Modeling
-- Explainable AI (XAI)
 - Natural Language Processing
-- Computer Vision
-- Data-driven Software Applications
+- Explainable AI
+- Data Mining & Pattern Recognition
 - AI for Healthcare & Biomedical Research
+- Intelligent Software Systems
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### Programming
-- Python
-- Java
-- JavaScript
-- SQL
+**Programming:**  
+Python · C/C++ · Java · SQL
 
-### Data Science & Machine Learning
-- Pandas
-- NumPy
-- Scikit-learn 
-- XGBoost
-- Logistic Regression
-- Data Visualization
-- SHAP & Explainable AI
+**Data Science & Machine Learning:**  
+Scikit-learn · Pandas · NumPy · Matplotlib · Machine Learning ·
+Predictive Modeling · Data Preprocessing · Feature Engineering
 
-### AI & Data Applications
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Data Analysis
+**AI & Research:**  
+Natural Language Processing · Explainable AI · Biomedical AI ·
+Gene Regulatory Network Analysis
 
-### Software & Tools
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-- Google Colab
-
-### Applied AI Research
-- Healthcare AI
-- Biomedical Data Analysis
-- Cancer Research
+**Tools & Platforms:**  
+Git · GitHub · Jupyter Notebook · Google Colab · VS Code
 
 ---
 
-## 🚀 Featured Projects
+## Selected Projects
 
-### 🤖 Sentiment Analysis Using Machine Learning
-A machine learning project for analyzing textual data and classifying
-sentiment using natural language processing techniques.
+### Sentiment Analysis Using Machine Learning
 
-### 🧬 AI-Based Biomedical Research
-Applying machine learning and explainable AI techniques to biomedical
-datasets, including gene expression and multi-omics data.
+An NLP-based sentiment classification pipeline developed using
+TF-IDF feature extraction and multiple machine learning algorithms.
 
-### 🧠 BioAI Research Lab
-A research-oriented platform combining AI, machine learning and biomedical
-data analysis across two areas:
+**Tech:** Python · Scikit-learn · NLTK · Pandas · NumPy
 
-- **BioSignal AI** — ECG, HRV and physiological signal analysis
-- **BioOmics AI** — gene expression, multi-omics and cancer research
+- Evaluated Logistic Regression, Linear SVC, KNN, and Multinomial Naive Bayes.
+- Achieved **84.9% test accuracy** using Logistic Regression.
+- Evaluated models using accuracy, precision, recall, F1-score, and
+  confusion matrices.
+
+
+### Blockchain Student Admission System
+
+A decentralized student admission platform designed to improve the
+integrity and transparency of academic application and verification
+processes.
+
+**Tech:** Solidity · Ethereum · Web3.js · React.js · Node.js · MongoDB
 
 ---
 
-## 📚 Research
+## Research
 
-My research interests include **machine learning, explainable AI, data
-analysis and AI applications in healthcare**.
+My research experience focuses on applying computational and AI methods
+to real-world problems, including biomedical and healthcare applications.
 
-### Research Publications
+### Selected Publications
 
-- *From brain to machine: Leveraging neuromorphic computing for improved system efficiency*
-  AIP Conf Proc.2025;3343(1):030012
-  
----
+**From Brain to Machine: Leveraging Neuromorphic Computing for Improved
+System Efficiency**
 
-## 🏆 Patent
+Published in *AIP Conference Proceedings* (2025).
+
+
+**Interpretable Machine Learning Framework for Gene Regulatory Network
+and Pathway Analysis in Breast Cancer**
+
+Exploring interpretable machine learning approaches for gene regulatory
+network and pathway analysis in breast cancer.
+
+## Patent
 
 **Sleep-Talking Pattern Classifier for Emotional & Cognitive State Analysis**
 
 Patent Application No. **202611057941**
 
+A privacy-preserving edge AI system integrating speech analysis,
+emotion and cognitive-state recognition, NLP, and sleep-stage
+correlation for home-based sleep health monitoring.
+
 ---
 
-## 🌱 Currently Learning
+## Experience
+
+### AI & Biomedical Research Intern
+**Rapture Biotech International Pvt. Ltd.**
+
+Worked on machine learning and data-driven biomedical research,
+including data preprocessing, feature analysis, and AI-based research
+on gene regulatory networks.
+
+### Blockchain Development Intern
+**Metacrafters**
+
+Worked on blockchain applications and smart contracts using Solidity,
+with experience in decentralized systems and Git-based development.
+
+---
+
+## Education
+
+**Bachelor of Engineering — Computer Science & Engineering**  
+Chandigarh University · 2022–2026
+
+
+Relevant coursework includes:
+
+Machine Learning · Artificial Intelligence · Data Mining ·
+Probability & Statistics · Data Structures & Algorithms ·
+Database Management Systems · Operating Systems
+
+---
+
+## Currently Exploring
 
 - Advanced Machine Learning
 - Deep Learning
-- Advanced Data Analytic
-- AI for Real-World Applications
+- Data Analytics
+- Explainable AI
+- AI-driven applications
 
 ---
 
-## 🎯 Career Goal
+## Career Focus
 
-My long-term goal is to work at the intersection of **Data Science,
-Artificial Intelligence and Machine Learning**, developing intelligent,
-data-driven solutions for real-world problems.
+I aim to build a career in **Data Science and Artificial Intelligence**,
+with a focus on developing intelligent, scalable, and data-driven
+solutions for real-world problems.
 
-I am particularly interested in exploring how these technologies can be
-applied across different domains, including **healthcare and biomedical
-research**.
-
----
-
-## 📫 Connect With Me
-
-- Email: [Sriporna Biswas](sripornab13@gmail.com)
-- LinkedIn: [Sriporna Biswas](https://www.linkedin.com/in/sriporna-biswas-7062a429)
-
+My experience in biomedical research represents one application area
+where I explore how AI and computational methods can create meaningful
+impact.
 
 ---
 
-⭐ *Turning data into intelligent and impactful solutions.*
+### Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [Email](sripornab13@gmail.com) · [ORCID](orcid.org/0009-0009-6683-5477)
