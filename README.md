@@ -118,7 +118,7 @@ with experience in decentralized systems and Git-based development.
 
 ## Education
 
-**Bachelor of Engineering — Computer Science & Engineering**  
+**Bachelor of Engineering - Computer Science & Engineering**  
 Chandigarh University · 2022–2026
 
 
