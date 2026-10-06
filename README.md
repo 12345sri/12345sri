@@ -152,9 +152,7 @@ impact.
 
 ---
 
-### Connect me
+## Connect With Me
 
-Email: sripornab13@gmail.com
-LinkedIn: https://www.linkedin.com/in/sriporna-biswas-7062a4294/
-
-
+**Email:** [sripornab13@gmail.com](mailto:sripornab13@gmail.com)  
+**LinkedIn:** [Sriporna Biswas](https://www.linkedin.com/in/sriporna-biswas-7062a4294/)  
