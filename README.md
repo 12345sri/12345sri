@@ -74,7 +74,7 @@ processes.
 My research experience focuses on applying computational and AI methods
 to real-world problems, including biomedical and healthcare applications.
 
-### Selected Publications
+### Publications
 
 **From Brain to Machine: Leveraging Neuromorphic Computing for Improved
 System Efficiency**
@@ -83,7 +83,7 @@ Published in *AIP Conference Proceedings* (2025).
 
 
 **Interpretable Machine Learning Framework for Gene Regulatory Network
-and Pathway Analysis in Breast Cancer**
+and Pathway Analysis in Breast Cancer** (In Press)
 
 Exploring interpretable machine learning approaches for gene regulatory
 network and pathway analysis in breast cancer.
@@ -92,7 +92,7 @@ network and pathway analysis in breast cancer.
 
 **Sleep-Talking Pattern Classifier for Emotional & Cognitive State Analysis**
 
-Patent Application No. **202611057941**
+Patent Application No. **202611057941**  Status:**Published**
 
 A privacy-preserving edge AI system integrating speech analysis,
 emotion and cognitive-state recognition, NLP, and sleep-stage
@@ -152,7 +152,7 @@ impact.
 
 ---
 
-### Connect
+### Connect me
 
 Email: sripornab13@gmail.com
 
