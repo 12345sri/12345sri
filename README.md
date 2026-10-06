@@ -14,7 +14,7 @@ analysis and biomedical datasets.
 
 ---
 
-## Research & Technical Interests
+## 💡Research & Technical Interests
 
 - Data Science & Predictive Analytics
 - Artificial Intelligence & Machine Learning
@@ -25,7 +25,7 @@ analysis and biomedical datasets.
 
 ---
 
-## Technical Skills
+## 🛠️Technical Skills
 
 **Programming:**  
 Python · C/C++ · Java · SQL
@@ -43,7 +43,7 @@ Git · GitHub · Jupyter Notebook · Google Colab · VS Code
 
 ---
 
-## Projects
+## 🚀Projects
 
 ### Sentiment Analysis Using Machine Learning
 
@@ -68,12 +68,12 @@ processes.
 
 ---
 
-## Research
+## 🔬Research
 
 My research experience focuses on applying computational and AI methods
 to real-world problems, including biomedical and healthcare applications.
 
-### Publications
+### 📚Publications
 
 **From Brain to Machine: Leveraging Neuromorphic Computing for Improved
 System Efficiency**
@@ -87,7 +87,7 @@ and Pathway Analysis in Breast Cancer**  (*In Press*)
 Exploring interpretable machine learning approaches for gene regulatory
 network and pathway analysis in breast cancer.
 
-## Patent
+## 🏆Patent
 
 **Sleep-Talking Pattern Classifier for Emotional & Cognitive State Analysis**
 
@@ -99,7 +99,7 @@ correlation for home-based sleep health monitoring.
 
 ---
 
-## Experience
+## 💼Experience
 
 ### AI & Biomedical Research Intern
 **Rapture Biotech International Pvt. Ltd.**
@@ -116,7 +116,7 @@ with experience in decentralized systems and Git-based development.
 
 ---
 
-## Education
+## ⁠🎓Education
 
 **Bachelor of Engineering - Computer Science & Engineering**  
 Chandigarh University · 2022–2026
@@ -130,7 +130,7 @@ Database Management Systems · Operating Systems
 
 ---
 
-## Currently Exploring
+## 🌱Currently Exploring
 
 - Advanced Machine Learning
 - Data Analytics
@@ -139,7 +139,7 @@ Database Management Systems · Operating Systems
 
 ---
 
-## Career Focus
+## 🎯Career Focus
 
 I aim to build a career in **Data Science and Artificial Intelligence**,
 with a focus on developing intelligent, scalable, and data-driven
@@ -151,7 +151,7 @@ impact.
 
 ---
 
-## Connect With Me
+##  ⁠📫Connect With Me
 
 **Email:** [sripornab13@gmail.com](mailto:sripornab13@gmail.com)  
 **LinkedIn:** [Sriporna Biswas](https://www.linkedin.com/in/sriporna-biswas-7062a4294/)  
