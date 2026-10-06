@@ -157,4 +157,4 @@ impact.
 
 ### Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](sripornab13@gmail.com) · [ORCID](orcid.org/0009-0009-6683-5477)
+[LinkedIn](https://www.linkedin.com/in/sriporna-biswas-7062a4294/) · [Email](sripornab13@gmail.com) · [ORCID](orcid.org/0009-0009-6683-5477)
