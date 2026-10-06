@@ -92,8 +92,7 @@ network and pathway analysis in breast cancer.
 
 **Sleep-Talking Pattern Classifier for Emotional & Cognitive State Analysis**
 
-Patent Application No. **202611057941** 
-Status: **Published**
+Patent Application No. **202611057941** (*Published*)
 
 A privacy-preserving edge AI system integrating speech analysis,
 emotion and cognitive-state recognition, NLP, and sleep-stage
@@ -156,7 +155,6 @@ impact.
 ### Connect me
 
 Email: sripornab13@gmail.com
-
 LinkedIn: https://www.linkedin.com/in/sriporna-biswas-7062a4294/
 
 
