@@ -21,10 +21,8 @@ analysis and biomedical datasets.
 - Artificial Intelligence & Machine Learning
 - Deep Learning
 - Natural Language Processing
-- Explainable AI
 - Data Mining & Pattern Recognition
 - AI for Healthcare & Biomedical Research
-- Intelligent Software Systems
 
 ---
 
@@ -136,7 +134,6 @@ Database Management Systems · Operating Systems
 ## Currently Exploring
 
 - Advanced Machine Learning
-- Deep Learning
 - Data Analytics
 - Explainable AI
 - AI-driven applications
